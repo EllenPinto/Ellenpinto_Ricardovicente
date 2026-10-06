@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/ossim.c.o -c \"/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/ossim.c\"",
+  "file": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/ossim.c",
+  "output": "CMakeFiles/ossim.dir/ossim.c.o"
+},
+{
+  "directory": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/queue.c.o -c \"/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/queue.c\"",
+  "file": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/queue.c",
+  "output": "CMakeFiles/ossim.dir/queue.c.o"
+},
+{
+  "directory": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/scheduler.c.o -c \"/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/scheduler.c\"",
+  "file": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/scheduler.c",
+  "output": "CMakeFiles/ossim.dir/scheduler.c.o"
+},
+{
+  "directory": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/application.dir/application.c.o -c \"/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/application.c\"",
+  "file": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/application.c",
+  "output": "CMakeFiles/application.dir/application.c.o"
+},
+{
+  "directory": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/application.dir/burst_queue.c.o -c \"/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/burst_queue.c\"",
+  "file": "/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/burst_queue.c",
+  "output": "CMakeFiles/application.dir/burst_queue.c.o"
+}
+]

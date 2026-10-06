@@ -1,0 +1,5 @@
+/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug/CMakeFiles/ossim.dir
+/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug/CMakeFiles/application.dir
+/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug/CMakeFiles/archive.dir
+/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.gnUiI1nsrc/trabalho1 (5)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
